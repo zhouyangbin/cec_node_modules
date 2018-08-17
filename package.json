@@ -4,7 +4,7 @@
     "main": "npmdesc.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BGOnline-CN/npmdesc"
+        "url": "https://github.com/zhouyangbin/cec_node_modules"
     },
     "keywords": [
         "cec_util"
