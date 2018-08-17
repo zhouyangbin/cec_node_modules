@@ -1,5 +1,12 @@
-{   
-    "name": "npmdesc",
+{  
+    "name": "cec_util",
     "version": "0.0.1",
-    "main": "npmdesc.js"
+    "main": "npmdesc.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BGOnline-CN/npmdesc"
+    },
+    "keywords": [
+        "cec_util"
+    ]
 }
